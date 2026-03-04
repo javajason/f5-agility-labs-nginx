@@ -1,5 +1,5 @@
-Class 17 - Integrating NGINX Ingress Controller with F5 BIG-IP
-==============================================================
+Class 18 - Mastering Cloud-Native App Delivery - ADCaaS (NGINXaaS)
+==================================================================
 
 This class provides a comprehensive walkthrough of integrating NGINX Ingress Controller with F5 BIG-IP in a Kubernetes environment using `F5 IngressLink <https://clouddocs.f5.com/containers/latest/userguide/ingresslink/>`__.
 
